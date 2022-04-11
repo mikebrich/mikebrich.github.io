@@ -22,17 +22,9 @@ _**[Placeholder for eventual team project](https://donbowen.github.io/teamprojec
 
 ---
 
-_**[Streamlined, startup co-founder](https://donbowen.github.io/teamproject/)**_
+_**[Streamlined, startup co-founder](/pdf/StreamlinedPitch.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Streamlined | startup co-founder](/pdf/StreamlinedPitch.pdf)**_
-
-View the slidedeck of a tech startup I Co-Founded.
-
-<img src="streamlined_cover.png"/>
 
 ---
 

@@ -1221,7 +1221,7 @@ ret_v_supply;
 
 
     
-![png](output_29_0.png)
+<img src="images/output_29_0.png?raw=true"/>
     
 
 
@@ -1306,8 +1306,7 @@ ret_v_comp;
 ```
 
 
-    
-![png](output_33_0.png)
+<img src="images/output_33_0.png?raw=true"/>
     
 
 
@@ -1407,19 +1406,19 @@ ret_v_reg3;
 
 
     
-![png](output_37_0.png)
+<img src="images/output_37_0.png?raw=true"/>
     
 
 
 
     
-![png](output_37_1.png)
+<img src="images/output_37_1.png?raw=true"/>
     
 
 
 
     
-![png](output_37_2.png)
+<img src="images/output_37_2.png?raw=true"/>
     
 
 
@@ -1515,7 +1514,7 @@ ret_v_ppe_a;
 
 
     
-![png](output_43_0.png)
+<img src="images/output_43_0.png?raw=true"/>
     
 
 
@@ -1533,7 +1532,7 @@ ret_v_cash_a;
 
 
     
-![png](output_45_0.png)
+<img src="images/output_45_0.png?raw=true"/>
     
 
 
@@ -1590,7 +1589,7 @@ ret_v_supply_stimmy;
 
 
     
-![png](output_50_0.png)
+<img src="images/output_50_0.png?raw=true"/>
     
 
 
@@ -1608,7 +1607,7 @@ ret_v_comp_stimmy;
 
 
     
-![png](output_52_0.png)
+<img src="images/output_52_0.png?raw=true"/>
     
 
 
@@ -1626,7 +1625,7 @@ ret_v_reg1_stimmy;
 
 
     
-![png](output_54_0.png)
+<img src="images/output_54_0.png?raw=true"/>
     
 
 
@@ -1645,7 +1644,7 @@ ret_v_ppe_a_stimmy;
 
 
     
-![png](output_56_0.png)
+<img src="images/output_56_0.png?raw=true"/>
     
 
 
