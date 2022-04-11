@@ -12,12 +12,17 @@ _**[Natural language processing Firm 10-Ks to identify risks and their impact](a
 
 This analysis report uses textual analysis on 10-Ks to identify public firm exposures to several risk factors. I then identified the correlation between these risk factors and the firms respective returns on the onset of the COVID-19 pandemic.
 
-<img src="images/output_29.0.png?raw=true"/>
+<img src="images/output_29_0.png?raw=true"/>
 
 ---
 
-
 _**[Placeholder for eventual team project](https://donbowen.github.io/teamproject/)**_
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+_**[Streamlined, startup co-founder](https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
