@@ -1,13 +1,11 @@
 title: Michael Rich
 logo: "me.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="https://www.linkedin.com/in/michaelrich01/</a> 
   <br>
-  <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
+  <a href="Michael_Rich_Resume.pdf" class="btn btn--info">Resume</a>  
   <br>
-  <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
+  <a href="https://www.linkedin.com/in/michaelrich01" class="btn btn--info">LinkedIn</a>  
   <br>
-  <a href="https://github.com/mikebrich</a>  
-  <br>
+  <a href="https://github.com/mikebrich">GitHub</a>  
   
 theme: jekyll-theme-minimal
