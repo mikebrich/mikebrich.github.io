@@ -24,7 +24,7 @@ _**[Placeholder for eventual team project](https://donbowen.github.io/teamprojec
 
 _**[Streamlined, startup co-founder](/pdf/StreamlinedPitch.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/streamlined_cover.jpg?raw=true"/>
 
 ---
 
