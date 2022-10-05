@@ -12,25 +12,37 @@ _**[Natural language processing Firm 10-Ks to identify risks and their impact](a
 
 This analysis report uses textual analysis on 10-Ks to identify public firm exposures to several risk factors. I then identified the correlation between these risk factors and the firms respective returns on the onset of the COVID-19 pandemic.
 
-<img src="images/output_29_0.png?raw=true"/>
+<center>
+  <img src="images/output_29_0.png?raw=true" width="50%">
+</center>
 
 ---
 
-_**[Placeholder for eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Predicting Commodity Returns based on Macroeconomic data](https://lukecost.github.io/CommodityReturns/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This project explored whether it is possible to predict the price of various agricultural commodities (corn, wheat, and soybeans) by using machine learning techniques on macroeconomic, weather, and financial datasets. In our out-of-sample tests, we found negative or near-zero R2 across every commodity and model we tested. We concluded that the market was pricing in information about the weather factors we constructed.
+
+<center>
+  <img src="https://lukecost.github.io/CommodityReturns/pics/corn_heat.jpg" width="50%">
+</center>
 
 ---
 
 _**[Streamlined, startup co-founder](/pdf/StreamlinedPitch.pdf)**_
 
-<img src="images/streamlined_cover.png?raw=true"/>
+<center>
+  <img src="images/streamlined_cover.png?raw=true" width="50%">
+</center>
 
 ---
 
+_**Internship at [West Monroe Partners](https://www.westmonroe.com/): Automation**_
+
+As a management consulting intern, I noticed a labor-intensive data collection process used to examine a private equity firm's portfolio companies. I automated that (using python!) and the firm is putting the program into production. **It will save 170+ hours of labor every year.** 
+
 ## Career Objectives
 
-This summer, I am interning in New York City at [West Monroe Partners](https://www.westmonroe.com/?utm_source=google&utm_medium=cpc&utm_term=west%20monroe&utm_content=!acq!v3!115461685196_kwd-758933406__486942911749_g_c__&utm_campaign=Search%3A+Prospecting%3A+BA%3A+Branded_BBM&atrkid=V3ADWED098667_115461685196_kwd-758933406__486942911749_g_c___&gclid=Cj0KCQjwgMqSBhDCARIsAIIVN1Uf_CSyK0IzR3K6SDU9e5fhalbksqNYdwCIH4KHsYPxj3Vr2J8wAaAaAmgNEALw_wcB) as a management consulting intern. However, my passion lies within startups and Venture Capital. I want to eventually transition full time to a startup or VC, but I plan to start out as a consultant. 
+My passion lies within startups and Venture Capital. I want to eventually transition full time to a startup or VC, but I plan to start out as a consultant. 
 
 ---
 
